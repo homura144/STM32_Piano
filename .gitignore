@@ -1,0 +1,11 @@
+### CLion template
+#custom template for .gitignore
+# CLion
+
+.idea/
+
+# CMake
+cmake-build-*/
+
+# STM32
+Debug/
